@@ -1,5 +1,5 @@
 Username:rahul
-password:rahu;@2021
+password:rahul@2021
 
 In this project, let's build a **Jobby App** by applying the concepts we have learned till now.
 
